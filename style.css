@@ -1,22 +1,22 @@
 * {
-    background-color: rgb(32, 188, 209);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(32, 188, 209);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
-    color: darkgreen;
+  color: darkgreen;
 }
 
 img {
-    width: 800px;
-    height: auto;
-    align-content: center;
+  width: 800px;
+  height: auto;
+  align-content: center;
 }
 
 li:hover {
-    color:aliceblue
+  color: aliceblue;
 }
 
 p {
-    color: aliceblue;
+  color: aliceblue;
 }
